@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://st4.depositphotos.com/3271841/27831/v/600/depositphotos_278313912-stock-video-white-abstract-blur-glowing-background.jpg');
+    background-size: auto 100vh;
+     font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: black; 
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle, 
+  .site-title {
+    color: quantum;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
